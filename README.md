@@ -1,2 +1,2 @@
 # notebooks
-Musings and explorations using Jupyter Notebooks. 
+Musings and explorations using Jupyter Notebooks.
